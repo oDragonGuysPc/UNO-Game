@@ -1,0 +1,17 @@
+{
+  "name": "uno-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "WobbyChip",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.5",
+    "uuid": "^8.3.2"
+  }
+}
